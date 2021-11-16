@@ -2,6 +2,7 @@
 
 👀 I’m interested in NFTs & Sports.
 📫 Drop me a line at [artchimides](mailto:artchimides@gmail.com)
+```
 
                        _,aaadP""""""Ybaaaa,,_
                    ,adP,__,,,aaaadP"""""Y888888a,_
@@ -25,8 +26,8 @@ Y,88888888b, ,adP"'             ""Y888888P"                  888888'
 `888888888888P'                     ""YP"                    888888
  I88888888888                          8                     88888I
  `Y8888888888                          8                     88888'
-  `Y888888888        Normand           8                     8888I
-   `Y88888888        Veilleux          8                     8P"8'
+  `Y888888888                          8                     8888I
+   `Y88888888                          8                     8P"8'
     `Y8888888,                         8                   ,d',d'
      `b""""Y8b                         8                 ,d" ,d'
        "b,   "Y,                       8               ,P" ,d"
@@ -36,7 +37,7 @@ Y,88888888b, ,adP"'             ""Y888888P"                  888888'
                  `"Ya,_     "Y888888888888888888P",d"'
                     `""Ya,__`Y888888888888888P"""
                          ``"""""""""""""''
-
+```
 <!---
 artchimides/artchimides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
