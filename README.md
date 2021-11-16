@@ -1,6 +1,7 @@
 👋 Hi, I’m @artchimides 🧙‍♀️🧙‍♀
 
 👀 I’m interested in NFTs & Sports.
+
 📫 Drop me a line at [artchimides](mailto:artchimides@gmail.com)
 ```
 
